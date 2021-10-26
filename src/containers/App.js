@@ -2,7 +2,7 @@ import React, {Component} from 'react';
 import {connect} from 'react-redux';
 import { ConfigProvider, Root, View } from '@vkontakte/vkui';
 import '@vkontakte/vkui/dist/vkui.css';
-import {isWebView} from '@vkontakte/vkui/src/lib/webview';
+//import {isWebView} from '@vkontakte/vkui/src/lib/webview';
 import * as vkSelectors from '../store/vk/reducer';
 import * as vkActions from '../store/vk/actions';
 import AboutPanel from './AboutPanel';
@@ -19,7 +19,8 @@ class App extends Component {
         let activePanel = this.props.route.name === 'about' ? 'aboutPanel' : 'mainPanel';
 
         return (
-            <ConfigProvider insets={this.props.insets} isWebView={isWebView}>
+         //   <ConfigProvider insets={this.props.insets} isWebView={isWebView}>
+         	<ConfigProvider>
                 <Root activeView="mainView">
                     <View id="mainView" activePanel={activePanel}>
                         <MainPanel router={this.props.router} id="mainPanel" accessToken={this.props.accessToken}/>
