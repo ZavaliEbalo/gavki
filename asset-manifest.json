@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/currency/static/css/main.48330483.chunk.css",
-    "main.js": "/currency/static/js/main.2fbad78f.chunk.js",
-    "main.js.map": "/currency/static/js/main.2fbad78f.chunk.js.map",
-    "runtime-main.js": "/currency/static/js/runtime-main.1c7c7791.js",
-    "runtime-main.js.map": "/currency/static/js/runtime-main.1c7c7791.js.map",
-    "static/css/2.2cfa1b23.chunk.css": "/currency/static/css/2.2cfa1b23.chunk.css",
-    "static/js/2.f6e81232.chunk.js": "/currency/static/js/2.f6e81232.chunk.js",
-    "static/js/2.f6e81232.chunk.js.map": "/currency/static/js/2.f6e81232.chunk.js.map",
-    "index.html": "/currency/index.html",
-    "precache-manifest.1b3cf0c107813cbb6f84ca7bfb3522e7.js": "/currency/precache-manifest.1b3cf0c107813cbb6f84ca7bfb3522e7.js",
-    "service-worker.js": "/currency/service-worker.js",
-    "static/css/2.2cfa1b23.chunk.css.map": "/currency/static/css/2.2cfa1b23.chunk.css.map",
-    "static/css/main.48330483.chunk.css.map": "/currency/static/css/main.48330483.chunk.css.map",
-    "static/js/2.f6e81232.chunk.js.LICENSE.txt": "/currency/static/js/2.f6e81232.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/currency/static/media/logo.4c512146.svg"
+    "main.css": "/ZavaliEbalo/gavki/static/css/main.48330483.chunk.css",
+    "main.js": "/ZavaliEbalo/gavki/static/js/main.e41dce0d.chunk.js",
+    "main.js.map": "/ZavaliEbalo/gavki/static/js/main.e41dce0d.chunk.js.map",
+    "runtime-main.js": "/ZavaliEbalo/gavki/static/js/runtime-main.f8772d61.js",
+    "runtime-main.js.map": "/ZavaliEbalo/gavki/static/js/runtime-main.f8772d61.js.map",
+    "static/css/2.2cfa1b23.chunk.css": "/ZavaliEbalo/gavki/static/css/2.2cfa1b23.chunk.css",
+    "static/js/2.5d164611.chunk.js": "/ZavaliEbalo/gavki/static/js/2.5d164611.chunk.js",
+    "static/js/2.5d164611.chunk.js.map": "/ZavaliEbalo/gavki/static/js/2.5d164611.chunk.js.map",
+    "index.html": "/ZavaliEbalo/gavki/index.html",
+    "precache-manifest.7981fcea5d68bfafbf07895b1ae29bfc.js": "/ZavaliEbalo/gavki/precache-manifest.7981fcea5d68bfafbf07895b1ae29bfc.js",
+    "service-worker.js": "/ZavaliEbalo/gavki/service-worker.js",
+    "static/css/2.2cfa1b23.chunk.css.map": "/ZavaliEbalo/gavki/static/css/2.2cfa1b23.chunk.css.map",
+    "static/css/main.48330483.chunk.css.map": "/ZavaliEbalo/gavki/static/css/main.48330483.chunk.css.map",
+    "static/js/2.5d164611.chunk.js.LICENSE.txt": "/ZavaliEbalo/gavki/static/js/2.5d164611.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/ZavaliEbalo/gavki/static/media/logo.4c512146.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.1c7c7791.js",
+    "static/js/runtime-main.f8772d61.js",
     "static/css/2.2cfa1b23.chunk.css",
-    "static/js/2.f6e81232.chunk.js",
+    "static/js/2.5d164611.chunk.js",
     "static/css/main.48330483.chunk.css",
-    "static/js/main.2fbad78f.chunk.js"
+    "static/js/main.e41dce0d.chunk.js"
   ]
 }
