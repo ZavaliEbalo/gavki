@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/ZavaliEbalo/gavki/precache-manifest.7981fcea5d68bfafbf07895b1ae29bfc.js"
+  "/ZavaliEbalo/gavki/precache-manifest.8a80da525434d71c0f0c60282f2a3f80.js"
 );
 
 self.addEventListener('message', (event) => {
